@@ -1,0 +1,13 @@
+{
+  "customers": [
+    {
+      "first_name": "James",
+      "last_name": "Bond",
+      "phone": "007-007-7777",
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ]
+}
